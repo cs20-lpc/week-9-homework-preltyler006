@@ -1,0 +1,6 @@
+=== Simulation 1: Ticket Counter (ArrayQueue, cap = 10) ===
+Queue length: 9
+Customers turned away: 13
+
+=== Simulation 2: Bank Service Line (LinkedQueue) ===
+Final queue length: 54
